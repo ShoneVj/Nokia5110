@@ -1,0 +1,14 @@
+Nokia5110	KEYWORD1
+
+Initialize_LCD	KEYWORD2
+setPointer	KEYWORD2
+dotPixel	KEYWORD2
+Data	KEYWORD2
+Cmd	KEYWORD2
+allClear	KEYWORD2
+Invert	KEYWORD2
+strDisp	KEYWORD2
+logoDisp	KEYWORD2
+charDisp	KEYWORD2
+
+
